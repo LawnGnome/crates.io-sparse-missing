@@ -1,0 +1,5 @@
+ipywidgets
+notebook
+pandas
+plotly
+requests
